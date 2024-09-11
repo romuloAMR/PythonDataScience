@@ -5,6 +5,7 @@
 - Simple commands
 - Data cleaning and processing
 - Graphics creation
+- Statistics
 - Loading...
 
 ## Libraries studied 📓:
@@ -12,5 +13,7 @@
 - Numpy
 - Matplotlib.pyplot
 - Seaborn
+- sklearn.model_selection
+- scipy.stats
 - Loading...
 

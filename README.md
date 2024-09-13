@@ -15,5 +15,6 @@
 - Seaborn
 - sklearn.model_selection
 - scipy.stats
+- statsmodels
 - Loading...
 

@@ -6,6 +6,7 @@
 - Data cleaning and processing
 - Graphics creation
 - Statistics
+- Linear Regression
 - Loading...
 
 ## Libraries studied 📓:
@@ -13,8 +14,9 @@
 - Numpy
 - Matplotlib.pyplot
 - Seaborn
-- sklearn.model_selection
+- sklearn
 - scipy.stats
 - statsmodels
+- yellowbrick
 - Loading...
 

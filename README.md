@@ -7,6 +7,7 @@
 - Graphics creation
 - Statistics
 - Linear Regression
+- Logistic Regression
 - Loading...
 
 ## Libraries studied 📓:

@@ -8,6 +8,7 @@
 - Statistics
 - Linear Regression
 - Logistic Regression
+- Temporal Series
 - Loading...
 
 ## Libraries studied 📓:
@@ -19,5 +20,7 @@
 - scipy.stats
 - statsmodels
 - yellowbrick
+- datetime
+- pmdarima
 - Loading...
 

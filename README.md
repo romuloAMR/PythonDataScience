@@ -9,6 +9,8 @@
 - Linear Regression
 - Logistic Regression
 - Temporal Series
+- Naive Bayes
+- DecisionTree
 - Loading...
 
 ## Libraries studied 📓:

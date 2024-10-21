@@ -11,6 +11,7 @@
 - Temporal Series
 - Naive Bayes
 - DecisionTree
+- Attribute Selection
 - Loading...
 
 ## Libraries studied 📓:

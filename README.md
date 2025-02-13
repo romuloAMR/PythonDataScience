@@ -13,6 +13,7 @@
 - DecisionTree
 - Attribute Selection
 - KNN
+- Random Forest
 - Loading...
 
 ## Libraries studied 📓:

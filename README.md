@@ -14,6 +14,7 @@
 - Attribute Selection
 - KNN
 - Random Forest
+- K-means
 - Loading...
 
 ## Libraries studied 📓:

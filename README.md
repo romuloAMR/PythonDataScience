@@ -12,6 +12,7 @@
 - Naive Bayes
 - DecisionTree
 - Attribute Selection
+- KNN
 - Loading...
 
 ## Libraries studied 📓:

@@ -14,7 +14,8 @@
 - Attribute Selection
 - KNN
 - Random Forest
-- K-means
+- K-Means
+- C-Means
 - Loading...
 
 ## Libraries studied 📓:
@@ -28,5 +29,6 @@
 - yellowbrick
 - datetime
 - pmdarima
+- skfuzzy
 - Loading...
 

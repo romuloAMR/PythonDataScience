@@ -16,6 +16,7 @@
 - Random Forest
 - K-Means
 - C-Means
+- K-Medoids
 - Loading...
 
 ## Libraries studied 📓:
@@ -30,5 +31,6 @@
 - datetime
 - pmdarima
 - skfuzzy
+- pyclustering
 - Loading...
 

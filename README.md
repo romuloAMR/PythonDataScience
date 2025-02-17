@@ -17,6 +17,7 @@
 - K-Means
 - C-Means
 - K-Medoids
+- Apriori
 - Loading...
 
 ## Libraries studied 📓:
